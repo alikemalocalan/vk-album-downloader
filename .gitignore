@@ -2,3 +2,7 @@
 /venv/
 /*.iml
 /*.har
+/.idea/
+/photos/
+VK-album-downloder.iml
+vk.com.har
